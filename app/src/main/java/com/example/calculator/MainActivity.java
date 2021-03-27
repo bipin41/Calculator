@@ -259,6 +259,12 @@ public class MainActivity extends AppCompatActivity {
                 tvOperation.setText(s);
                 list.clear();
                 list.add(s);
+            } else {
+                value1 = String.valueOf(grandTotal);
+                tvAnswer.setText("");
+                tvOperation.setText(s);
+                list.clear();
+                list.add(s);
             }
         }
     }
