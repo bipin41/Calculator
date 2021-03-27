@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="_5dp" type="dimen">5dp</item>
+    <item name="_0dp" type="dimen">0dp</item>
+
+    <item name="_10dp" type="dimen">10dp</item>
+    <item name="_15dp" type="dimen">15dp</item>
+    <item name="_20dp" type="dimen">20dp</item>
+    <item name="_25dp" type="dimen">25dp</item>
+    <item name="_30dp" type="dimen">30dp</item>
+    <item name="_40dp" type="dimen">40dp</item>
+    <item name="_50dp" type="dimen">50dp</item>
+    <item name="_60dp" type="dimen">60dp</item>
+    <item name="_70dp" type="dimen">70dp</item>
+    <item name="_80dp" type="dimen">80dp</item>
+
+    <item name="_10sp" type="dimen">10sp</item>
+    <item name="_2sp" type="dimen">2sp</item>
+    <item name="_12sp" type="dimen">12sp</item>
+    <item name="_20sp" type="dimen">20sp</item>
+    <item name="_25sp" type="dimen">25sp</item>
+    <item name="_30sp" type="dimen">30sp</item>
+    <item name="_40sp" type="dimen">40sp</item>
+    <item name="_45sp" type="dimen">45sp</item>
+    <item name="_50sp" type="dimen">50sp</item>
+    <item name="_60sp" type="dimen">60sp</item>
+    <item name="_70sp" type="dimen">70sp</item>
+    <item name="_80sp" type="dimen">80sp</item>
+</resources>

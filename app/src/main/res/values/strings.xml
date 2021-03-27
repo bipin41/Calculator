@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="c">C</string>
+    <string name="Percentage">%</string>
+    <string name="Division">÷</string>
+    <string name="Div">/</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Multiplication">x</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Subtraction">-</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Addition">+</string>
+    <string name="Zero">0</string>
+    <string name="Dot">.</string>
+    <string name="EqualTo">=</string>
+    <string name="Brackets">( )</string>
+    <string name="Answer">=    </string>
+    <string name="Space"> </string>
+    <string name="BracketStart">( </string>
+    <string name="BracketEnd"> )</string>
+    <string name="_23131">23131</string>
+    <string name="_12_456">12*456</string>
+    <string name="Error">Cannot be divided by Zero!</string>
+    <string name="Error2">Enter valid inputs</string>
+    <string name="Error3">Please enter some input</string>
+    <string name="plusMinus">+/-</string>
+</resources>
