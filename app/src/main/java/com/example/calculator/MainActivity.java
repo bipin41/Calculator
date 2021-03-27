@@ -6,7 +6,6 @@ import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
 import android.text.style.RelativeSizeSpan;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -252,14 +251,14 @@ public class MainActivity extends AppCompatActivity {
     //If any sign are there in Array list total will be set in tvOperation.
     public void equalTo(View view) {
         if (list.size() > 0) {
+            String s = format.format(grandTotal);
             String lastElement = list.get(list.size() - 1);
             if (Arrays.asList(operationsList).contains(lastElement)) {
                 value1 = String.valueOf(grandTotal);
-                String s = format.format(grandTotal);
                 tvAnswer.setText("");
                 tvOperation.setText(s);
                 list.clear();
-                list.add(String.valueOf(grandTotal));
+                list.add(s);
             }
         }
     }
